@@ -58,14 +58,14 @@ users.needObject=Phải là một Object
 
 # includes/handle/handleCommand.js
 
-handleCommand.userBanned=Hiện tại bạn đang bị cấm sử dụng bot!\n%1\n%2
-handleCommand.threadBanned=Hiện tại nhóm của bạn đang bị cấm sử dụng bot!\n%1\n%2
-handleCommand.commandNotExist=Lệnh bạn sử dụng không tồn tại, có phải là lệnh "%1" hay không?
+handleCommand.userBanned=Mày bị còng đầu rồi sài bot cái ĐCM!\nLiên hệ FB: https://www.facebook.com/profile.php?id=100054058715620 để biết thêm chi tiết.\n /callad + uid để được mở ban\n%1\n%2
+handleCommand.threadBanned=Hiện tại nhóm của bạn đang bị cấm sử dụng bot!\nLiên hệ FB:https://www.facebook.com/profile.php?id=100054058715620 để được mở ban.\n%1\n%2
+handleCommand.commandNotExist= (\_/)\n(•.• )\n(>🧠\nĐưa não cho bạn lắp vào đầu nè.\nLệnh bạn sử dụng không tồn tại, có phải là lệnh "%1" hay không?
 handleCommand.commandThreadBanned=Nhóm bạn đã bị cấm sử dụng lệnh "%1"
 handleCommand.commandUserBanned=Bạn đã bị cấm sử dụng lệnh "%1"
 handleCommand.threadNotAllowNSFW=Nhóm của bạn không được phép sử dụng những lệnh NSFW
 handleCommand.cantGetInfoThread=Không thể lấy thông tin của nhóm, lỗi: %1
-handleCommand.permssionNotEnough=Bạn không đủ quyền hạn để có thể sử dụng lệnh "%1"
+handleCommand.permssionNotEnough=Sài cc lệnh của Admin tao!!
 handleCommand.cantSetMessageReaction=Đã có lỗi xảy ra không mong muốn tại setMessageReaction, lỗi: %1
 handleCommand.notFoundLanguage=Không tìm thấy ngôn ngữ hỗ trợ cho module %1s
 handleCommand.executeCommand=[ %1 ] Lệnh sử dụng: %2 bởi người dùng: %3 tại nhóm: %4 | Args đi kèm: %5 | Thời gian xử lý: %6ms
@@ -101,4 +101,4 @@ handleSchedule.exectuteError=Đã xảy ra lỗi không mong muốn trong lúc s
 
 # utils/index.js
 
-utils.throwError=[!] Lệnh bạn đang sử dụng không đúng cú pháp, vui lòng sử dụng %1help %2 để biết thêm chi tiết cách sử dụng
+utils.throwError=[!] » Dùng lệnh cũng ngu :) vui lòng sử dụng %1help %2 để biết thêm hướng dẫn sử dụng bot.\nNếu bạn quá khó hiểu vui lòng liên hệ ADMIN qua FB:https://www.facebook.com/profile.php?id=100054058715620
